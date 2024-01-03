@@ -11,7 +11,7 @@ export default defineConfig({
       pages: '/src/pages',
     },
   },
-  base: '/team-project-SlimTrack360/',
+  base: '/fs-84-react-node-MaksymBora/',
 
   build: {
     outDir: './dist',
